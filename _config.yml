@@ -22,3 +22,8 @@ navigation:
     url: /publications/
   - label: Jobs
     url: /jobs/
+
+collections:
+  researches:
+    output: true
+    permalink: /researches/:slug
