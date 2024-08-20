@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research
 title: "SSAM"
 category: tool
 group: Computational Omics Laboratory (COLab)

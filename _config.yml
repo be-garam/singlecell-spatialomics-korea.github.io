@@ -23,7 +23,16 @@ navigation:
   - label: Jobs
     url: /jobs/
 
+plugins:
+  - jekyll-postcss
+  - jekyll-slug  # 추가된 라인
+
 collections:
   researches:
     output: true
     permalink: /researches/:slug
+
+# slug 생성 규칙 설정
+slug:
+  mode: pretty
+  cased: lowercase

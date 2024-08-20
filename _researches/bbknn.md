@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research
 title: "BBKNN"
 category: tool
 group: Single-Cell Medical Genomics Laboratory

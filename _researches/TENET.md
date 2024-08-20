@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: research
 title: "TENET"
 category: tool
 group: Laboratory for Single Cell Systems
