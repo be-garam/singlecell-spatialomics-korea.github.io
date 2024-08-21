@@ -2,8 +2,8 @@
 layout: research
 title: "Updating SCSOK.io research page"
 category: Introduction
-group: Computational Omics Laboratory (COLab)
-institute: Pusan National University
+group: SCSOK
+institute: SCSOK
 ---
 
 ## tldr page
