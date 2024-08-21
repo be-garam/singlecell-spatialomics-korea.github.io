@@ -25,7 +25,6 @@ navigation:
 
 plugins:
   - jekyll-postcss
-  - jekyll-slug  # 추가된 라인
 
 collections:
   researches:
@@ -36,3 +35,11 @@ collections:
 slug:
   mode: pretty
   cased: lowercase
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  auto_ids: true
+  toc_levels: 1..3

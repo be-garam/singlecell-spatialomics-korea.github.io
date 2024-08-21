@@ -8,7 +8,12 @@ module.exports = {
     './pages/*.md',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'research-blue': '#1E40AF',
+        'research-gray': '#F3F4F6',
+      },
+    },
   },
   variants: {
     extend: {},
