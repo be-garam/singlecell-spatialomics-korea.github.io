@@ -30,8 +30,6 @@ This tl;dr guide is for you if you already know what happens in a SCSOK hackatho
 1. click `Add file` button in main page
 2. click `Create new file` button
 3. input `your-project-name.md` in the input box
-4. copy and paste the markdown you prepared.
-    - Don't forget to add the front matter's `title` at the top of the page.
     ```markdown
     ---
     layout: research  <!-- fixed  -->
@@ -42,10 +40,11 @@ This tl;dr guide is for you if you already know what happens in a SCSOK hackatho
 
     <!-- yout markdown here -->
     ```
+4. copy and paste the markdown you prepared.
+    - Don't forget to add the front matter's `title` at the top of the page.
 5. input Propose new file and click `Propose new file` button
     - Input your organization name and own name
 6. click `Create pull request` button
 7. click `Merge pull request` button
 8. Done! Just wait for the page to be updated.
-
 

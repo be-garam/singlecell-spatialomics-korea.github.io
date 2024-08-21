@@ -6,5 +6,4 @@ gem "jekyll", "~> 4.3.2"
 
 group :jekyll_plugins do
   gem "jekyll-postcss"
-  # gem "jekyll-slug"  # 추가된 라인
 end
