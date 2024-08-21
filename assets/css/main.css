@@ -89,3 +89,13 @@ ol > li {
 .research-toc {
 @apply bg-white dark:bg-gray-700 p-4 rounded-lg shadow-md;
 }
+
+#left-sidebar a:hover,
+#left-sidebar a:focus,
+#left-sidebar a:active,
+.toc a:hover,
+.toc a:focus,
+.toc a:active {
+  color: rgb(82, 143, 228);
+  box-shadow: rgb(82, 143, 228) 3px 0px 0px 0px inset;
+}
