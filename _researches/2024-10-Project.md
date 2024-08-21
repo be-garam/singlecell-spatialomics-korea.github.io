@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 10"
+title: "Integration of spatial & single cell"
+category: Spatial Transcriptomics
 group: kribb
 institute: kribb
 ---
 
-## Integration of spatial & single cell
+## Introduction
+
+## Quick Start

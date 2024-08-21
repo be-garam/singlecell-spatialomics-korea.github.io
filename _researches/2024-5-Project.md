@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 5"
+title: "Spatial niche pattern analysis"
+category: Spatial Transcriptomics
 group: Single-Cell Medical Genomics Laboratory
 institute: Korea Advanced Institute of Science and Technology (KAIST)
 ---
 
-## Spatial niche pattern analysis
+## Introduction
+
+## Quick Start

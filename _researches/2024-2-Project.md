@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 2"
+title: "Spatial Causality"
+category: Spatial Transcriptomics
 group: Laboratory for Single Cell Systems
 institute: Soongsil University
 ---
 
-## Spatial Causality
+## Introduction
+
+## Quick Start

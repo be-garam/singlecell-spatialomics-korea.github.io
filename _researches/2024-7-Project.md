@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 7"
+title: "Integration of Visium HD and Xenium"
+category: Spatial Transcriptomics
 group: Geninus
 institute: Geninus
 ---
 
-## Integration of Visium HD and Xenium
+## Introduction
+
+## Quick Start

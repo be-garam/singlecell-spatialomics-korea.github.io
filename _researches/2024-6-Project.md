@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 6"
+title: "Analyzing intratumoral heterogeneity at spatial level"
+category: Spatial Transcriptomics
 group: Functional Genomics Laboratory
 institute: Gwangju Institute of Science and Technology (GIST)
 ---
 
-## Analyzing intratumoral heterogeneity at spatial level
+## Introduction
+
+## Quick Start

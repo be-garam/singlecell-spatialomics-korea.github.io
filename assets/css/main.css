@@ -99,3 +99,64 @@ ol > li {
   color: rgb(82, 143, 228);
   box-shadow: rgb(82, 143, 228) 3px 0px 0px 0px inset;
 }
+
+/* Existing styles */
+
+/* Category tag styles */
+.category-tag {
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+  }
+  
+  .category-tag.introduction {
+    background-color: #DBEAFE;
+    color: #1E40AF;
+  }
+  
+  .category-tag.data {
+    background-color: #FEE2E2;
+    color: #991B1B;
+  }
+  
+  .category-tag.single-cell-transcriptomics {
+    background-color: #D1FAE5;
+    color: #065F46;
+  }
+  
+  .category-tag.spatial-transcriptomics {
+    background-color: #FEF3C7;
+    color: #92400E;
+  }
+  
+  .category-tag.others {
+    background-color: #E5E7EB;
+    color: #1F2937;
+  }
+  
+  /* Dark mode styles */
+  .dark .category-tag.introduction {
+    background-color: #1E3A8A;
+    color: #BFDBFE;
+  }
+  
+  .dark .category-tag.data {
+    background-color: #7F1D1D;
+    color: #FEE2E2;
+  }
+  
+  .dark .category-tag.single-cell-transcriptomics {
+    background-color: #065F46;
+    color: #D1FAE5;
+  }
+  
+  .dark .category-tag.spatial-transcriptomics {
+    background-color: #92400E;
+    color: #FEF3C7;
+  }
+  
+  .dark .category-tag.others {
+    background-color: #374151;
+    color: #E5E7EB;
+  }

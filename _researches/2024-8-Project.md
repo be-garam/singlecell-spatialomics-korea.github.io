@@ -1,19 +1,18 @@
 ---
 layout: research
-title: "Project 8"
+title: "Updating SCSOK.io research page"
+category: Introduction
 group: Computational Omics Laboratory (COLab)
 institute: Pusan National University
 ---
 
-## Updating SCSOK.io research page
-
-### tldr page
+## tldr page
 This tl;dr guide is for you if you already know what happens in a SCSOK hackathon or if you don’t care.
 
-### Installation
+## Installation
 - Do not need to install anything.
 
-### How to Update your hackathon page
+## How to Update your hackathon page
 1. find your hackathon page in the sidebar
 2. click `Edit this page` button
 3. click `Pencil` icon
@@ -27,7 +26,7 @@ This tl;dr guide is for you if you already know what happens in a SCSOK hackatho
 7. click `Merge pull request` button
 8. Done! Just wait for the page to be updated.
 
-### How to Add a new hackathon page
+## How to Add a new hackathon page
 1. click `Add file` button in main page
 2. click `Create new file` button
 3. input `your-project-name.md` in the input box

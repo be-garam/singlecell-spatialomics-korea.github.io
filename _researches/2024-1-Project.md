@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 1"
+title: "Pan-cancer single cell data"
+category: Single-cell Transcriptomics
 group: Laboratory for Single Cell Systems
 institute: Soongsil University
 ---
 
-## Pan-cancer single cell data
+## Introduction
+
+## Quick Start

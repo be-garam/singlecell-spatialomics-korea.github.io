@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 4"
+title: "Superpixel"
+category: Spatial Transcriptomics
 group: Laboratory for Single Cell Systems
 institute: Soongsil University
 ---
 
-## Superpixel
+## Introduction
+
+## Quick Start

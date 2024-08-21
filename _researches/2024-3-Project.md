@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 3"
+title: "HVG selection method for genotype batch dataset"
+category: Single-cell Transcriptomics
 group: Center for Genome Engineering
 institute: Institute for Basic Science
 ---
 
-## HVG selection method for genotype batch dataset
+## Introduction
+
+## Quick Start

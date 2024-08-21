@@ -1,8 +1,11 @@
 ---
 layout: research
-title: "Project 9"
-group: Computational Omics Laboratory (COLab)
+title: "Fast and Scalable SSAM"
+category: Spatial Transcriptomics
+group: Spatial Transcriptomics
 institute: Pusan National University
 ---
 
-## Fast and Scalable SSAM
+## Introduction
+
+## Quick Start
