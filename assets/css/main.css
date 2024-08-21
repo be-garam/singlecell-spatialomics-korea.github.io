@@ -42,11 +42,11 @@ p {
 }
 
 ul {
-    @apply list-disc mb-4 dark:text-white
+    @apply list-disc mb-4 dark:text-white pb-5 
 }
 
 ol {
-    @apply list-disc mb-4 dark:text-white
+    @apply list-disc mb-4 dark:text-white pb-5 
 }
 
 li {
@@ -59,6 +59,27 @@ ul > li {
 
 ol > li {
     margin-left: 1.3em;
+}
+
+ol > li > ul,
+ul > li > ul {
+  @apply pb-0 mb-0;
+}
+
+ol > li > ul > li,
+ul > li > ul > li {
+  @apply pb-0 mb-0;
+}
+
+
+code {
+    line-height: normal;
+    background: rgba(135, 131, 120, .15);
+    color: #EB5757;
+    border-radius: 4px;
+    font-size: 75%;
+    padding: 0.2em 0.4em;
+    font-weight: 600;
 }
 
 #map * {
@@ -79,11 +100,11 @@ ol > li {
 }
 
 .research-content h2 {
-@apply text-xl text-blue-600 dark:text-blue-400;
+@apply text-xl text-blue-600 dark:text-blue-400 ;
 }
 
 .research-content p {
-@apply text-gray-700 dark:text-gray-300;
+@apply text-gray-700 dark:text-gray-300 pb-5 ;
 }
 
 .research-toc {
@@ -98,6 +119,11 @@ ol > li {
 .toc a:active {
   color: rgb(82, 143, 228);
   box-shadow: rgb(82, 143, 228) 3px 0px 0px 0px inset;
+}
+
+/* Markdown content styles */
+.markdown-title{
+  @apply text-3xl font-bold text-gray-900 dark:text-white mb-2
 }
 
 /* Existing styles */
